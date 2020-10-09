@@ -29,7 +29,7 @@
 4. 进入 `advanced-java` 根目录：`cd advanced-java`
 5. 执行命令，运行本项目：`docsify serve`
 
-## 高并发架构
+## 高
 
 ### [消息队列](./docs/high-concurrency/mq-interview.md)
 
